@@ -1,7 +1,7 @@
 本项目功能在于输入用户名进入聊天室，项目下载后需要进行以下操作
 1、在项目根目录打开两个终端
     一个执行nodemon server.js
-    一个执行client.js
+    一个执行nodemon client.js
 2、在浏览器中输入http://localhost:6066即可进入项目
 项目功能：输入用户名
         在线聊天
